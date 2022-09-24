@@ -1,0 +1,8 @@
+{
+    "protocol": "http",
+    "ip": "localhost",
+    "port": 82,
+    "namespaces": "/video",
+    "event": "distribution"
+
+}
